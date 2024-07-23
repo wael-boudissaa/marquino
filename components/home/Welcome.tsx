@@ -20,12 +20,11 @@ import {
 const Welcome = () => {
   return (
     <div className="w-full h-screen ">
-      {/* <h1 className="">here u can buy the watch u want</h1> */}
-      {/* <div className="w-1/2"> */}
-      {/* <AccordionDemo /> */}
-      <CarouselPlugin />
-
-      {/* </div>  */}
+      <h1 className="">here u can buy the watch u want</h1>
+      <div className="w-1/2">
+        {/* <AccordionDemo /> */}
+        {/* <CarouselPlugin /> */}
+      </div>
     </div>
   );
 };
